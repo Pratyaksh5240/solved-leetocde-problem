@@ -7,5 +7,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/Akshu524/solved-leetocde-problem/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/Akshu524/solved-leetocde-problem/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Akshu524/solved-leetocde-problem/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
