@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0610-triangle-judgement) |
