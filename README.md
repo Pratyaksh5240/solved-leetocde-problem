@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -182,8 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
