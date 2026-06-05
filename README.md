@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
