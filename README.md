@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0704-binary-search) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0994-rotting-oranges) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0022-generate-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0322-coin-change) |
 ## Matrix
 |  |
 | ------- |
