@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0152-maximum-product-subarray) |
@@ -287,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
