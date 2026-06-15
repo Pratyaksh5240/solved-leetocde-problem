@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0198-house-robber) |
