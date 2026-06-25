@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
