@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0079-word-search) |
