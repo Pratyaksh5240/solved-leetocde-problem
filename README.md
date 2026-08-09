@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0435-non-overlapping-intervals) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 | [0704-binary-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Two Pointers
@@ -349,4 +352,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 <!---LeetCode Topics End-->
