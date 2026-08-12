@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
+| [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
+| [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0435-non-overlapping-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0994-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
