@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -402,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1092-shortest-common-supersequence/) | Hard |
 <!---LeetCode Topics End-->
