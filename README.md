@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0176-second-highest-salary](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0185-department-top-three-salaries) |
@@ -55,8 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-employees-whose-manager-left-the-company](https://github.com/Akshu524/solved-leetocde-problem/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Akshu524/solved-leetocde-problem/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0049-group-anagrams](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0127-word-ladder) |
@@ -70,8 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0072-edit-distance) |
@@ -82,11 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0402-remove-k-digits) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0049-group-anagrams](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -97,8 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0049-group-anagrams) |
@@ -136,8 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -145,35 +146,35 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -183,14 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0704-binary-search) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -199,8 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0079-word-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -215,8 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0127-word-ladder) |
@@ -231,8 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0994-rotting-oranges) |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -241,60 +242,62 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0206-reverse-linked-list) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0206-reverse-linked-list](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0206-reverse-linked-list) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0307-range-sum-query-mutable](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0079-word-search) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0078-subsets](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0078-subsets) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0064-minimum-path-sum) |
@@ -316,8 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0064-minimum-path-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0079-word-search) |
 | [0542-01-matrix](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0542-01-matrix) |
@@ -325,87 +328,88 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0994-rotting-oranges) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0684-redundant-connection](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0695-max-area-of-island) |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0133-clone-graph](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0684-redundant-connection) |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0210-course-schedule-ii) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0062-unique-paths) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0435-non-overlapping-intervals) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0076-minimum-window-substring](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0076-minimum-window-substring) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 ## Treap
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 ## Sqrt Decomposition
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0307-range-sum-query-mutable](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Longest Common Subsequence
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1092-shortest-common-supersequence](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1092-shortest-common-supersequence/) | Hard |
 <!---LeetCode Topics End-->
