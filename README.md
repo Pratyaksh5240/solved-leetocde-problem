@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
