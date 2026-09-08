@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0704-binary-search) |
+| [0729-my-calendar-i](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 | [0704-binary-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0704-binary-search) |
+| [0729-my-calendar-i](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0729-my-calendar-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Two Pointers
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0307-range-sum-query-mutable](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0729-my-calendar-i](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0729-my-calendar-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
+| [0729-my-calendar-i](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0729-my-calendar-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
+| [0729-my-calendar-i](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0729-my-calendar-i) |
 ## Treap
 |  |
 | ------- |
