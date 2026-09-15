@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
+| [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0435-non-overlapping-intervals) |
+| [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0695-max-area-of-island) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Binary Search
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -457,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1029-two-city-scheduling) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
