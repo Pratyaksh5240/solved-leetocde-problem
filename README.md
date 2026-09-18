@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Design
@@ -468,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0523-continuous-subarray-sum) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
