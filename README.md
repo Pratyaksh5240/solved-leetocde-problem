@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
+| [2733-neither-minimum-nor-maximum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/2733-neither-minimum-nor-maximum) |
 ## Array
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1049-last-stone-weight-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1480-running-sum-of-1d-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/2733-neither-minimum-nor-maximum) |
 ## Divide and Conquer
 |  |
 | ------- |
