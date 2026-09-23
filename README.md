@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0767-reorganize-string) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
