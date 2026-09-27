@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0344-reverse-string) |
