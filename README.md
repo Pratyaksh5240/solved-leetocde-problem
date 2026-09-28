@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0767-reorganize-string) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1446-consecutive-characters](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1446-consecutive-characters) |
 ## Sorting
 |  |
 | ------- |
