@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0767-reorganize-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0680-valid-palindrome-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Monotonic Queue
 |  |
