@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0072-edit-distance) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0039-combination-sum) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
