@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0680-valid-palindrome-ii) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
