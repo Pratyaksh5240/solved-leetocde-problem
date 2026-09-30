@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0079-word-search) |
