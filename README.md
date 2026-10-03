@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0435-non-overlapping-intervals) |
 | [0767-reorganize-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0435-non-overlapping-intervals) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0327-count-of-range-sum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0729-my-calendar-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0680-valid-palindrome-ii) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
 ## Tree
