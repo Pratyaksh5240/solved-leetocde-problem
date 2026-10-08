@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1029-two-city-scheduling) |
 | [1035-uncrossed-lines](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/1048-longest-string-chain/) | Medium |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0729-my-calendar-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0076-minimum-window-substring) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |
