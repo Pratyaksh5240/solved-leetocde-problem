@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0883-projection-area-of-3d-shapes](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0883-projection-area-of-3d-shapes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0994-rotting-oranges) |
@@ -325,10 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0523-continuous-subarray-sum) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0883-projection-area-of-3d-shapes) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
 | ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0883-projection-area-of-3d-shapes) |
 | [0973-k-closest-points-to-origin](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0733-flood-fill) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Pratyaksh5240/solved-leetocde-problem/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/Akshu524/solved-leetocde-problem/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
